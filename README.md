@@ -1,5 +1,6 @@
 # 💫 About Me:
-Я - frontend разработчик с опытом работы с TypeScript в React.<br><br>🔭 Сейчас я работаю над личным проектом "mquix-planer".<br>🌱 Изучаю TypeScript и React в рамках проекта "mquix-planer". Я активно изучаю эти технологии и применяю их в проекте.<br>⚡ Увлекаюсь программированием и люблю изучать новые технологии и подходы к разработке.
+I am a frontend developer with experience with TypeScript in React.<br><br>🔭 I am currently working on a personal project ‘mquix-planer’.<br>🌱 I am learning TypeScript and React as part of the ‘mquix-planer’ project. I am actively learning these technologies and applying them to the project.<br>to the project.
+⚡ I am passionate about programming and like to learn new technologies and approaches to development.
 
 
 # 💻 Tech Stack:
