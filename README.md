@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mqu1x/mqu1x/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mqu1x/mqu1x/output/snake.svg" alt="" />
 
 ###
