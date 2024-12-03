@@ -7,7 +7,7 @@
 ###
 
 <p align="left">I'm a Frontend developer with experience in building modern and reactive web applications.<br><br>Contact me:<br><br>
-  <p>• 👨🏻‍💻 tg:</p>
+  • 👨🏻‍💻
   <a href="t.me/mquix" target="_blank">
     telegram
   </a>
