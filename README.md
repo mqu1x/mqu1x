@@ -11,7 +11,18 @@
   <a href="t.me/mquix" target="_blank">
     telegram
   </a>
-  <br><br>• 📧 Email: mich.krs.01@gmail.com<br><br>• 🌐 Portfolio: mquix.ru</p>
+  <br>
+  <br>
+  • 📧 
+  <a href="t.me/mquix" target="_blank">
+    mich.krs.01@gmail.com
+  </a>
+  <br>
+  
+  <br>• 🌐</p>
+    <a href="mquix.ru" target="_blank">
+    Portfolio
+    </a>
 
 ###
 
