@@ -18,11 +18,11 @@
     mich.krs.01@gmail.com
   </a>
   <br>
-  
-  <br>• 🌐</p>
+  • 🌐
     <a href="mquix.ru" target="_blank">
     Portfolio
     </a>
+</p>
 
 ###
 
