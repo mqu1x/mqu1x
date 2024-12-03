@@ -18,6 +18,7 @@
     mich.krs.01@gmail.com
   </a>
   <br>
+  <br>
   • 🌐
     <a href="mquix.ru" target="_blank">
     Portfolio
