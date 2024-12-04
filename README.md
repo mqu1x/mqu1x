@@ -8,19 +8,19 @@
 
 <p align="left">I'm a Frontend developer with experience in building modern and reactive web applications.<br><br>Contact me:<br><br>
   • 👨🏻‍💻
-  <a href="t.me/mquix" target="_blank">
+  <a href="https://t.me/mquix" target="_blank">
     telegram
   </a>
   <br>
   <br>
   • 📧 
-  <a href="t.me/mquix" target="_blank">
+  <a href="mailto:mich.krs.01@gmail.com" target="_blank">
     mich.krs.01@gmail.com
   </a>
   <br>
   <br>
   • 🌐
-    <a href="mquix.ru" target="_blank">
+    <a href="https://mquix.ru" target="_blank">
     Portfolio
     </a>
 </p>
