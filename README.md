@@ -122,7 +122,7 @@
 	  </a>
 	  <br>Next JS
 	</td>
- <td align="center" width="110" height="90">
+	<td align="center" width="110" height="90">
 	  <a href="" >
 		<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
 	  </a>
@@ -140,8 +140,6 @@
 	  </a>
 	  <br>Webpack
 	</td>
-  </tr> 
-	<tr>
 	<td align="center" width="110" height="90"> 
 	  <a href="" >
 		<img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
